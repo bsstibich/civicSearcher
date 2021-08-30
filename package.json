@@ -4,8 +4,8 @@
   },
   "dependencies": {
     "cypress-cucumber-preprocessor": "^4.2.0"
-  }
- "cypress-cucumber-preprocessor": {
+  },
+  "cypress-cucumber-preprocessor": {
    "nonGlobalStepDefinitions":true
 
 }
