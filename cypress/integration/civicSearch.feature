@@ -7,3 +7,7 @@ Feature: civcSearcher
     Scenario: Apply filters
         When I change the search radius
         And I change the model year
+        And I set some simple filters
+    
+    Scenario: Check for keywords
+        When I open a listing and read description
